@@ -1,1 +1,1 @@
-Welcome! This repository contains all of the code, notebooks, images and other materials related to the https://dbourke.link/mlcourse
+Welcome! This repository contains all of the code, notebooks, images and other materials related to the https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?srsltid=AfmBOopg4mARMZ_728N4gSf0tcrDSq_WDtzdlc4D0jLqoAK9N57mrUQR
